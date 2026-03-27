@@ -34,3 +34,6 @@ Features include adding, editing, deleting, and marking tasks as completed. Desi
 - Check the box to mark as completed
 - Click "Edit" to change task text
 - Click "Delete" to remove a task
+
+## Note
+Some parts of the CSS were AI-assisted. All functionality and React logic are fully implemented manually.
